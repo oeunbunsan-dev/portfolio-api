@@ -1,0 +1,15 @@
+node_modules
+.git
+.gitignore
+.env
+.env.local
+.gemini
+tests
+*.log
+dist
+.vscode
+.claude
+.windsurf
+.agents
+skills-lock.json
+README.md
